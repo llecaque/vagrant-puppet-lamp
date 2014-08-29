@@ -24,4 +24,4 @@ Vagrant.configure(VAGRANTFILE_API_VERSION) do |config|
         
         #inv_config.vm.provision :shell, :path => "puppet/scripts/enable_remote_mysql_access.sh"
     end
-end
+
